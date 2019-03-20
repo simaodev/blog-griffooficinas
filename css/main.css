@@ -733,6 +733,11 @@ td.gutter {
   border-left-color: #f1c40f;
 }
 
+.box-success {
+  background-color: #d4edda;
+  border-left-color: #c3e6cb;
+}
+
 .box-error {
   background-color: #f4dddb;
   border-left-color: #c0392b;
