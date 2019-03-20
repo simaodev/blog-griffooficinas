@@ -21,7 +21,7 @@ Meu nome é William F. Simão e vou contar um pouco sobre o Griffo Oficinas:
 > Não estamos aqui para fazer mais do mesmo.<br />
 > Se você está aqui querendo um software genérico para geração <br />
 > de NF-e e Boletos infelizmente não é o local correto, vamos até indicar <br />
-> uma das melhores empresas desse segmento que é o [Conta Azul](https://contaazul.com/).
+> uma das melhores empresas desse segmento que é o [Conta Azul](https://contaazul.com/).<br />
 > Porém se você está aqui porque está cansado de ter prejuízo em serviços
 > dentro da sua oficina, e queria controlar melhor o tempo dos seus
 > mecânicos, entre outras coisas, então está no lugar certo.
