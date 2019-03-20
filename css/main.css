@@ -715,7 +715,7 @@ td.gutter {
 }
 
 /* --- Notification boxes --- */
-.box-note, .box-warning, .box-error {
+.box-note, .box-warning, .box-error, .box-success {
   padding: 15px 15px 15px 10px;
   margin: 20px 20px 20px 5px;
   border: 1px solid #eee;
