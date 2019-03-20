@@ -25,9 +25,9 @@ title: 'Tag Index'
             <div class="tag-entry">
                 <a href="{{- site.url -}}{{- post.url -}}">{{- post.title -}}</a>
                 <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%B %d, %Y" -}}</time>
-                    {% assign m = page.date | date: "%-m" %}
-{% case m %}
+                  {% assign m = page.date | date: "%-m" %}
+                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%-m %d, %Y" -}}</time>
+                    {% case m %}
   {% when '1' %}Januar
   {% when '2' %}Februar
   {% when '3' %}M&auml;rz
