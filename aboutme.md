@@ -4,6 +4,7 @@ title: Sobre nós
 subtitle: Griffo é feito por mecânicos para mecânicos!
 ---
 
+
 Meu nome é William F. Simão e vou contar um pouco sobre o Griffo Oficinas:
 
 - Estamos aqui para resolver os problemas de oficinas mecânicas.
@@ -25,5 +26,5 @@ Trabalhei alguns anos como mecânico e sempre vi que algumas oficinas não iam p
 Quando mudei para o ramo de tecnologia trouxe essa bagagem e comecei a perceber que tanto o processo de atendimento e gestão de veículos podem ser muito bem feitos por sistema e ainda melhor, de forma simples!
 As vezes pensamos que tecnologia é coisa de outro mundo, porém olha como usamos muito bem o WhatsApp para ter mais clientes.
 
-{: .box-success} No Griffo você vai conseguir mandar promoções de serviços para seus clientes direto no WhatsApp
-
+{: .box-warning}
+No Griffo você vai conseguir mandar promoções de serviços para seus clientes direto no WhatsApp
