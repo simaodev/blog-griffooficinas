@@ -12,9 +12,13 @@ Meu nome é William F. Simão e vou contar um pouco sobre o Griffo Oficinas:
 - Evoluímos junto com você mecânico!
 
 **O que somos?**
+
+ - [ ] O melhor amigo para sua oficina
+
 Somos uma empresa que usa tecnologia para te ajudar a cuidar da sua oficina mecânica.
 
 **O NÃO que somos?**
+
 Não estamos aqui para fazer mais do mesmo.
 Se você está aqui querendo um software genérico para geração de NF-e e Boletos infelizmente não é o local correto, vamos até indicar uma das melhores empresas desse segmento que é o [Conta Azul](https://contaazul.com/). Porém se você está aqui porque está cansado de ter prejuízo em serviços dentro da sua oficina, e queria controlar melhor o tempo dos seus mecânicos, entre outras coisas, então está no lugar correto.
 
