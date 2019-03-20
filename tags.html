@@ -25,22 +25,7 @@ title: 'Tag Index'
             <div class="tag-entry">
                 <a href="{{- site.url -}}{{- post.url -}}">{{- post.title -}}</a>
                 <div class="entry-date">
-                  {% assign m = page.date | date: "%-m" %}
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%-m %d, %Y" -}}</time>
-                    {% case m %}
-  {% when '1' %}Januar
-  {% when '2' %}Februar
-  {% when '3' %}M&auml;rz
-  {% when '4' %}April
-  {% when '5' %}Mai
-  {% when '6' %}Juni
-  {% when '7' %}Juli
-  {% when '8' %}August
-  {% when '9' %}September
-  {% when '10' %}Oktober
-  {% when '11' %}November
-  {% when '12' %}Dezember
-{% endcase %}
+                    <time datetime="{{- post.date | date_to_long_string: "ordinal", "BR"}}">{{- post.date | date_to_long_string: "ordinal", "BR"}}</time>
                 </div>
             </div>
         {%- endfor -%}
