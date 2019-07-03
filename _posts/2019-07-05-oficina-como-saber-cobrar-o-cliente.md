@@ -10,7 +10,7 @@ Se você chegou até aqui é porque ainda não descobriu como cobrar os seus ser
 ## Estou aqui para te ajudar!  
 ![images](../img/auto_detailing_kit8-net.png)
 
-# 5 Dicas matadoras para calcular o valor dos serviços.
+# 3 Dicas matadoras para calcular o valor dos serviços.
 Nesse post você vai entender como oficinas de sucesso fazem os preços dos serviços prestados.
 
 ## 1 - Saiba como está o mercado. 
