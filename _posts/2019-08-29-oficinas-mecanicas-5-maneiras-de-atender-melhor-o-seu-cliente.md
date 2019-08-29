@@ -1,6 +1,6 @@
 ---  
 layout: post
-title: Oficinas mecânicas - 5 maneiras de atender melhor o seu cliente 
+title: 'Oficinas mecânicas: 5 maneiras de atender melhor o seu cliente' 
 subtitle: Por que muitas pessoas preferem levar seus veículos diretamente nas concessionárias ao invés de pequenas oficinas mecânicas? 
 bigimg: /img/5-maneiras-de-atender-melhor-o-seu-cliente.png  
 tags: [Oficina, Organização, Gerenciamento]  
