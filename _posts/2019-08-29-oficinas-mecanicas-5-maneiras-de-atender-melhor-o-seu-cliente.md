@@ -50,3 +50,7 @@ Poucas oficinas realizam o pós-venda, mas essa é uma ferramenta incrível para
 Essas foram algumas dicas que são simples, mas que são extremamente poderosas para tornar sua oficina mecânica incrível. Comece aplicar hoje mesmo e veja sua oficina evoluir.
 
 Até mais.
+
+<a href="http://app.griffooficinas.com.br">
+![Programa para oficinas totalmente gratuito](../img/programa-oficinas-gratis.png)
+</a>
