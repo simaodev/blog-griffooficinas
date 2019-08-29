@@ -6,8 +6,6 @@ bigimg: /img/5-maneiras-de-atender-melhor-o-seu-cliente.png
 tags: [Oficina, Organização, Gerenciamento]  
 ---
 
-# Oficinas mecânicas: 5 maneiras de atender melhor o seu cliente
-
 Por que muitas pessoas preferem levar seus veículos diretamente nas concessionárias ao invés de pequenas oficinas mecânicas? Você já parou para pensar nisso alguma vez?
 
 Existem pequenas oficinas que prestam ótimos serviços, mas sempre há a exceção.
