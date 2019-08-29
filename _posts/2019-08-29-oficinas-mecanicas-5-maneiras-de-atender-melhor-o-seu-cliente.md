@@ -1,7 +1,7 @@
 ---  
 layout: post
 title: Oficinas mecânicas - 5 maneiras de atender melhor o seu cliente 
-subtitle: Porque você deve deixar de ser só uma oficina de bairro para ser a melhor oficina do bairro.  
+subtitle: Por que muitas pessoas preferem levar seus veículos diretamente nas concessionárias ao invés de pequenas oficinas mecânicas? 
 bigimg: /img/5-maneiras-de-atender-melhor-o-seu-cliente.png  
 tags: [Oficina, Organização, Gerenciamento]  
 ---
