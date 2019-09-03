@@ -32,6 +32,10 @@ Para fazer o cálculo de Custo Hora da oficina devemos ter em mãos algumas info
 
 [Clique aqui]: https://www.griffooficinas.com.br/conteudos/calculadora-preco-servico.html
 
+<a href="http://app.griffooficinas.com.br" target="_blank">
+![Programa para oficinas totalmente gratuito](../img/programa-oficinas-gratis.png)
+</a>
+
 ## 3 - Horas trabalhadas.  
 Hoje com a internet conseguimos de várias formas ver antecipadamente o nível de dificuldade de um trabalho e conseguimos fazer uma previsão de quantidade de horas, e é essa quantidade de horas que vai determinar o real custo do seu trabalho para o cliente.
 Pensando que você já fez o cálculo anterior vamos fazer um exemplo:
@@ -54,3 +58,7 @@ Seguir esses são os principais passos para se chegar ao objetivo que é o clien
 #### “Lembrando que quanto mais conhecimento tenha o profissional que vai falar com o cliente, mais ele fecha venda!”
 
 Espero que essas 3 dicas lhe ajudem a calcular melhor as horas trabalhadas!
+
+<a href="http://app.griffooficinas.com.br" target="_blank">
+![Programa para oficinas totalmente gratuito](../img/programa-oficinas-gratis.png)
+</a>

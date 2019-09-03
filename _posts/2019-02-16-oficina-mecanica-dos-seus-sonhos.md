@@ -34,7 +34,11 @@ R.:
 Você respondendo essas três perguntas já vai ter uma pequena ideia do que estou falando.  
 Onde quero chegar é que a palavra certa não é **Recepção** e sim **Percepção**, como o seu cliente deve lhe perceber.  
 As vezes simplesmente mantendo uma oficina bem organizada, com um ambiente bem limpo, com uma parede bem pintada e mecânicos devidamente uniformizados, você já vai mudar a percepção que os clientes têm da sua oficina.  
-  
+
+<a href="http://app.griffooficinas.com.br" target="_blank">
+![Programa para oficinas totalmente gratuito](../img/programa-oficinas-gratis.png)
+</a>
+
 ## 2 - Atendimento.  
 Quando falamos em atendimento, não é só atender o cliente, é conquistar ele dê uma tal forma que ele vai se apaixonar pela oficina.  
 #### Uma vez escutei uma história de um vendedor de flores, onde ele está dando uma entrevista para uma repórter e a moça lhe pergunta, como que o senhor se tornou uma das melhores floriculturas da cidade? O humilde senhor responde, não sou o melhor moça, apenas aprendi com meu avô que devo atender tão bem o cliente que compra um real de mim quanto o cliente que compra mil reais, pois os dois clientes estão comprando alegria e não simplesmente uma flor.  
@@ -58,3 +62,7 @@ O mínimo para serviço do veículo é que ele não deve sair pior que entrou, e
 #### “Lembre bem, o carro do cliente nunca deve sair em pior estado que entrou na sua oficina!”
 
 Espero que essas 3 dicas lhe ajudem a fazer uma oficina dos seus sonhos!
+
+<a href="http://app.griffooficinas.com.br" target="_blank">
+![Programa para oficinas totalmente gratuito](../img/programa-oficinas-gratis.png)
+</a>
