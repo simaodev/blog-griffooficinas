@@ -29,7 +29,7 @@ Caso os mecânicos sejam os responsáveis pelo atendimento, selecione um que pos
 Não há nada mais desagradável que chegar em um lugar e ser mal atendido. Faça sua oficina ser referência em atendimento ao cliente.
 
 <a href="http://app.griffooficinas.com.br" target="_blank">
-![Programa para oficinas totalmente gratuito](../img/programa-oficinas-gratis.png)
+![Programa para oficinas totalmente gratuito](../img/programa10dias.png)
 </a>
 
 ## 3. Uma equipe qualificada irá enfrentar qualquer desafio
@@ -54,5 +54,5 @@ Essas foram algumas dicas que são simples, mas que são extremamente poderosas 
 Até mais.
 
 <a href="http://app.griffooficinas.com.br" target="_blank">
-![Programa para oficinas totalmente gratuito](../img/programa-oficinas-gratis.png)
+![Programa para oficinas totalmente gratuito](../img/programa10dias.png)
 </a>

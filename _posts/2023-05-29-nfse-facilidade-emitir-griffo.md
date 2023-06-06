@@ -3,7 +3,7 @@ layout: post
 title: 'NFS-e: a facilidade da emissão dentro do Griffo' 
 subtitle: Porque é tão prático e rápido para emitir uma Nota Fiscal de Serviço dentro do nosso sistema?
 bigimg: /img/pexelsfundo.jpeg  
-tags: [Oficina, Organização, Gerenciamento]  
+tags: [Oficina, Organização, Gerenciamento, Nota Fiscal]  
 ---
 
 Emitir nota fiscal de serviço é importante e benéfico tanto para o prestador de serviços quanto para o cliente, além de ser um requisito legal em muitos países, incluindo o Brasil.

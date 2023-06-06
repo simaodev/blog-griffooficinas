@@ -36,7 +36,7 @@ Onde quero chegar é que a palavra certa não é **Recepção** e sim **Percepç
 As vezes simplesmente mantendo uma oficina bem organizada, com um ambiente bem limpo, com uma parede bem pintada e mecânicos devidamente uniformizados, você já vai mudar a percepção que os clientes têm da sua oficina.  
 
 <a href="http://app.griffooficinas.com.br" target="_blank">
-![Programa para oficinas totalmente gratuito](../img/programa-oficinas-gratis.png)
+![Programa para oficinas totalmente gratuito](../img/programa10dias.png)
 </a>
 
 ## 2 - Atendimento.  
@@ -64,5 +64,5 @@ O mínimo para serviço do veículo é que ele não deve sair pior que entrou, e
 Espero que essas 3 dicas lhe ajudem a fazer uma oficina dos seus sonhos!
 
 <a href="http://app.griffooficinas.com.br" target="_blank">
-![Programa para oficinas totalmente gratuito](../img/programa-oficinas-gratis.png)
+![Programa para oficinas totalmente gratuito](../img/programa10dias.png)
 </a>
