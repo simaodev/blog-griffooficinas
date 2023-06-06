@@ -14,8 +14,9 @@ Meu nome é William F. Simão e vou contar um pouco sobre o Griffo Oficinas:
 
 **O que somos?**
 
-> Somos uma empresa que usa tecnologia para te ajudar a cuidar da sua
+> Somos uma empresa que usa tecnologia para te ajudar a cuidar da sua 
 > oficina mecânica.
+
 
 **O NÃO que somos?**
 
