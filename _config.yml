@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://blog.griffooficinas.com.br"
-urlhome: "https://www.griffooficinas.com.br"
+urlhome: "https://griffooficinas.com.br"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -24,7 +24,7 @@ description: Para o mecânico de hoje!
 
 # List of links in the navigation bar
 navbar-links:
-  Site: "https://www.griffooficinas.com.br"
+  Site: "https://griffooficinas.com.br"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -82,7 +82,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: griffooficinas
+  instagram: programaparaoficinas
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888

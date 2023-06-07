@@ -30,7 +30,7 @@ Para fazer o cálculo de Custo Hora da oficina devemos ter em mãos algumas info
 
 #### Tendo em mãos essas informações, você pode usar nossa calculadora de serviços que está no nosso site, ela irá lhe ajuda a fazer esse cálculo. [Clique aqui]
 
-[Clique aqui]: https://www.griffooficinas.com.br/conteudos/calculadora-preco-servico.html
+[Clique aqui]: https://griffooficinas.com.br/conteudos/calculadora-preco-servico.html
 
 <a href="http://app.griffooficinas.com.br" target="_blank">
 ![Programa para oficinas totalmente gratuito](../img/programa10dias.png)
